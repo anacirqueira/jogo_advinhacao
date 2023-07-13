@@ -1,0 +1,136 @@
+{
+  "order_detail": {
+    "discounts": [
+      {
+        "value": 9.26,
+        "description": "Festa da pizza (04/07 a 10/07)",
+        "title": "Desconto em productos selecionados",
+        "product_id": 8480017601635,
+        "type": "offer_by_product",
+        "raw_value": 23,
+        "value_type": "percentage",
+        "max_value": null,
+        "includes_toppings": false,
+        "percentage_by_rappi": 0.0,
+        "percentage_by_partners": 0.0,
+        "amount_by_rappi": 0.0,
+        "amount_by_partner": 0.0,
+        "discount_product_units": 1,
+        "discount_product_unit_value": 9.26,
+        "sku": "95056-910002"
+      },
+      {
+        "value": 4.35,
+        "description": "Aproveite 10,8074% de desconto em produtos selecionados. Você verá o desconto aplicado no checkout.",
+        "title": "BR_VFD_ALL_43686_Pizza Hut _CRM_GO_Mybox",
+        "product_id": 8480017601635,
+        "type": "offer_by_product",
+        "raw_value": 10.8074,
+        "value_type": "percentage",
+        "max_value": null,
+        "includes_toppings": false,
+        "percentage_by_rappi": 0.0,
+        "percentage_by_partners": 100.0,
+        "amount_by_rappi": 0.0,
+        "amount_by_partner": 4.35,
+        "discount_product_units": 1,
+        "discount_product_unit_value": 4.35,
+        "sku": "95056-910002"
+      }
+    ],
+    "order_id": "2160703363",
+    "cooking_time": 14,
+    "min_cooking_time": 12,
+    "max_cooking_time": 14,
+    "created_at": "2023-07-10 15:55:26",
+    "delivery_method": "delivery",
+    "payment_method": "pix",
+    "billing_information": null,
+    "delivery_information": null,
+    "totals": {
+      "total_products": 42.15,
+      "total_discounts": 13.61,
+      "total_products_with_discount": 37.80,
+      "total_products_without_discount": 42.15,
+      "total_other_discounts": 0.00,
+      "total_order": 37.80,
+      "total_to_pay": 0.00,
+      "discount_by_support": 0.0,
+      "total_discount_by_partner": 4.35,
+      "charges": {
+        "shipping": 10.90,
+        "service_fee": 2.99,
+        "fast_lane": -10.00
+      },
+      "other_totals": {
+        "total_rappi_credits": 0.00,
+        "total_rappi_pay": 0.00,
+        "tip": 0.00
+      }
+    },
+    "items": [
+      {
+        "price": 40.25,
+        "sku": "95056-910002",
+        "id": "8480017601635",
+        "name": "Combo My Box",
+        "type": "product",
+        "comments": null,
+        "unit_price_with_discount": 35.90,
+        "unit_price_without_discount": 40.25,
+        "percentage_discount": 10.81,
+        "quantity": 1,
+        "subitems": [
+          {
+            "price": 1.90,
+            "sku": "91535",
+            "id": "56955212",
+            "name": "Breadsticks pepperoni",
+            "type": "topping",
+            "comments": null,
+            "unit_price_with_discount": 1.90,
+            "unit_price_without_discount": 1.90,
+            "percentage_discount": 0.00,
+            "quantity": 1,
+            "subitems": []
+          },
+          {
+            "price": 0.00,
+            "sku": "91789",
+            "id": "56955215",
+            "name": "Pepperoni",
+            "type": "topping",
+            "comments": null,
+            "unit_price_with_discount": 0.00,
+            "unit_price_without_discount": 0.00,
+            "percentage_discount": 0.00,
+            "quantity": 1,
+            "subitems": []
+          },
+          {
+            "price": 0.00,
+            "sku": "91533",
+            "id": "57648925",
+            "name": "Fanta guaraná lata",
+            "type": "topping",
+            "comments": null,
+            "unit_price_with_discount": 0.00,
+            "unit_price_without_discount": 0.00,
+            "percentage_discount": 0.00,
+            "quantity": 1,
+            "subitems": []
+          }
+        ]
+      }
+    ],
+    "delivery_discount": null
+  },
+  "customer": {
+    "first_name": "Marcus"
+  },
+  "store": {
+    "internal_id": "900066753",
+    "external_id": "900066753",
+    "name": "Pizza Hut – Niterói"
+  }
+}

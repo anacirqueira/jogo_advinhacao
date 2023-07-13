@@ -1,0 +1,18 @@
+* {
+  padding:0;
+  margin:0;
+  vertical-align:baseline;
+  list-style:none;
+  border:0
+  }
+
+
+body {
+  background: linear-gradient(315deg, #C2E9FB 0%, #A1C4FD 100%);
+}
+
+main {
+  border-radius: 6px;
+  background: #FFF;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.10);
+}
